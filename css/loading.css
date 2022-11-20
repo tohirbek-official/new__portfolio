@@ -12,5 +12,6 @@
 }
 
 #loader {
+  position: absolute;
   z-index: 110;
 }/*# sourceMappingURL=loading.css.map */

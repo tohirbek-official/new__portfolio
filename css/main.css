@@ -343,4 +343,9 @@ nav {
 }
 .loader__peges img {
   width: 35%;
+}
+
+#loader {
+  position: absolute;
+  z-index: 110;
 }/*# sourceMappingURL=main.css.map */
