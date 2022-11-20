@@ -340,10 +340,6 @@ nav {
   font-family: "Inter";
   src: url(../Fonts/Inter-ExtraLight.ttf);
 }
-body {
-  overflow-x: hidden;
-}
-
 .main {
   padding-top: 130px;
   background: #08546C;
